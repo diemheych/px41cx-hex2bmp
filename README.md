@@ -1,5 +1,6 @@
 # px41cx-hex2bmp
-Python utility to extract hex encoded screenshots from PX41CX serial connection log and save to multiple BMP files
+Python utility to extract hex encoded screenshots from PX41CX serial connection log and save to multiple BMP files.
+Note: output files will be overwritten if they already exist.
 # Installation
 This program requires Python 3 and the MicroBMP module which can be found at: https://pypi.org/project/microbmp/
 # Usage
@@ -27,3 +28,4 @@ screenshots04.bmp
 ![PXHello](Images/pxhello.bmp)
 ![SS04](Images/sss04.bmp)
 ![SS05](Images/sss05.bmp)
+![stack01](Images/stack01.bmp)
