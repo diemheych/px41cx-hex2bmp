@@ -25,3 +25,5 @@ screenshots04.bmp
 ```
 # Sample Screenshots
 ![PXHello](Images/pxhello.bmp)
+![SS04](Images/sss04.bmp)
+![SS05](Images/sss05.bmp)
