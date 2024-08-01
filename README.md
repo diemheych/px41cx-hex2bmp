@@ -11,7 +11,8 @@ Extract screenshots from PX41CX terminal log file.
 
 positional arguments:
   infile      log of PX41CX serial connection containing hex encoded screenshots
-  outfile     BMP filename prefix, file count will be added as nn
+  outfile     BMP filename prefix, file count will be added as nn. Existing files will
+              be overwritten.
 
 optional arguments:
   -h, --help  show this help message and exit
